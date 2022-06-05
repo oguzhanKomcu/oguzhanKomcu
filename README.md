@@ -4,7 +4,7 @@ Hello, I'm Oguzhan. I am a software developer who produces and develops projects
 
 Here I am sharing my completed projects that I am still developing.
 
-
+📫 How to reach me = komcuoguzz@gmail.com   /    oguzkomcu@gmail.com
 
 
 ## 🌐Socials
