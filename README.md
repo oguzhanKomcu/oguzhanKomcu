@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I'm Oguzhan. I am a software developer who produces and develops projects in the field of software, tests and plans for the future. Although my general area is to develop back-ends, I can also develop projects created with the technologies that come within the scope of .Net. I also try to support the open source projects available here.
+Hello, I'm Oğuzhan. I am a software developer who produces and develops projects in the field of software, tests and plans for the future. Although my general area is to develop back-ends, I can also develop projects created with the technologies that come within the scope of .Net. I also try to support the open source projects available here.
 
 Here I am sharing my completed projects that I am still developing.
 
