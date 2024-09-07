@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Hello, I'm Oğuzhan. I am a software developer who produces and develops projects in the field of software, tests and plans for the future. Although my general area is to develop back-ends, I can also develop projects created with the technologies that come within the scope of .Net. I also try to support the open source projects available here.
+Hello, I'm Oğuzhan. I'm a software developer who produces and develops projects in the software field, tests them and makes plans for the future. Although my general field is back-end development, I can also develop projects created with technologies that fall within the scope of .Net. I also try to support open source projects here.
 
-Here I am sharing my completed projects that I am still developing.
+Here I share my projects that I'm still developing and completed.
 
-📫 How to reach me = komcuoguzz@gmail.com   /    oguzkomcu@gmail.com
+📫 How to reach me =  oguzkomcu@gmail.com
 
 
 ## 🌐Socials
